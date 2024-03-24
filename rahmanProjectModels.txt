@@ -1,0 +1,31 @@
+Waterfall Model: This is a linear and sequential approach to project management, where each phase of the project (planning, 
+design, implementation, testing, deployment) is completed before moving on to the next. It's best suited for projects 
+with well-defined requirements and little expected change.
+
+Agile Methodology: Agile is an iterative and flexible approach to project management, where the project is divided into 
+small increments or iterations. It emphasizes collaboration, adaptability to change, and delivering working software or 
+products frequently. Scrum and Kanban are popular frameworks within the Agile methodology.
+
+Scrum: Scrum is an Agile framework that focuses on delivering value iteratively. It involves organizing work into fixed-length 
+iterations called sprints, with regular meetings (such as daily stand-ups, sprint planning, sprint review, and retrospective) 
+to keep the team aligned and adapt to changing requirements.
+
+Kanban: Kanban is another Agile framework that visualizes the workflow on a Kanban board. Tasks are represented as cards that 
+move through different stages of the workflow (e.g., to-do, in progress, done). It emphasizes limiting work in progress (WIP) 
+to improve flow and efficiency.
+
+Lean Methodology: Lean is a project management approach derived from manufacturing principles. It focuses on maximizing value 
+while minimizing waste. Lean principles include identifying value, mapping the value stream, creating flow, establishing pull, 
+and continuously improving.
+
+PRINCE2: PRINCE2 (Projects IN Controlled Environments) is a process-based project management methodology that provides a 
+structured framework for managing projects. It defines roles and responsibilities, divides the project into manageable stages, 
+and emphasizes flexibility and scalability.
+
+Critical Path Method (CPM): CPM is a project management technique used for planning and scheduling projects with complex and 
+interdependent activities. It identifies the critical path, which is the sequence of tasks that determines the minimum duration 
+of the project.
+
+PERT (Program Evaluation and Review Technique): PERT is similar to CPM but incorporates uncertainty into the project schedule by 
+using three time estimates (optimistic, pessimistic, and most likely) to calculate expected durations. It's particularly useful 
+for projects with high uncertainty or risk.

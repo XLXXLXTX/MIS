@@ -1,1 +1,21 @@
-robots
+What is a Robot?
+A robot is a programmable machine capable of carrying out a complex series of actions automatically. It can be designed to perform 
+tasks autonomously or under the control of an operator. Here are some key components and characteristics of robots:
+
+Sensors: Robots are equipped with various sensors to perceive their environment. These sensors can include cameras, infrared 
+sensors, ultrasonic sensors, etc.
+
+Actuators: Actuators are mechanisms that enable robots to manipulate objects or move within their environment. Common actuators 
+include motors, pneumatic cylinders, and hydraulic systems.
+
+Control System: The control system of a robot consists of software and hardware that process sensor data and determine the 
+appropriate actions to take.
+
+Programming: Robots are programmed to perform specific tasks. Programming languages commonly used for robotics include C/C++, 
+Python, and ROS (Robot Operating System).
+
+End Effectors: These are tools or attachments at the end of a robot's arm that enable it to interact with its environment. 
+Examples include grippers, welding torches, and vacuum pumps.
+
+Mobility: Some robots are stationary, while others are mobile and capable of navigating their environment. Mobile robots may use 
+wheels, tracks, or legs for movement.
