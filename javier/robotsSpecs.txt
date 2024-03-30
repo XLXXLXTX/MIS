@@ -1,0 +1,31 @@
+Propulsion/Mobility Systems:
+    -Types of Mobility: Robots can use wheels, legs, wings, or a combination of these.
+    -Navigation Sensors: Cameras, LIDAR (laser detection and ranging), ultrasound ...
+
+Environment Perception:
+    -Perception Sensors: Sensors to detect people, objects ... in the environment.
+    -Computer Vision: The ability to understand images and videos of the environment so that interaction with humans and object manipulation could be done.
+
+Control and Motion Planning:
+    -Control algorithms: Coordinate movement.
+    -Path Planning: Create optimal routes to move between two points.
+
+Manipulation and Grasping:
+    -End Effector Design: Design the end of the robotic arm that will interact with the environment.
+    -Tactile Sensors: May be necessary in case feedback is needed for manipulation capability.
+
+AI and Machine Learning:
+    -Perception algorithms: Read data from sensors and make decisions based on those inputs.
+    -Machine Learning: Useful to improve the ability to recognize patterns, learn new situations ...
+    
+Human-Robot Interaction:
+    -User interface: Intuitive interfaces for humans to interact with them (commands, voice, gestures ...).
+    -Safety measures: Avoid the risk of injuries/collisions with humans.
+
+Communication and Connectivity:
+    -Wireless Connection: Access data or services in the cloud.
+    -Communication Protocols: Robust and secure protocols for reliable communications and data privacy.
+
+Power/Autonomy:
+    -Power Sources: Rechargeable batteries, fuels ...
+    -Power Management: To optimize battery life and maximize the robot's lifetime.

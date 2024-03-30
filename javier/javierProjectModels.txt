@@ -1,0 +1,57 @@
+Waterfall methodology: Tasks and phases are completed in a linear, sequential manner, 
+and each stage of the project must be completed before the next one begins.
+Stages: Requirements -> Analysis -> Design -> Construction -> Testing -> Deployment & maintenance
+Useful when:
+    -Goal is clearly defined (won't be changed)
+    -Stakeholders know exactly what they want (won't be changed)
+    -Project is consistent and predictable
+    -Intensive tracking or documentation is needed
+    -Many people join midway through the project, so they need to join quickly
+
+Agile methodology: Teams are allowed to revise their project as many times as needed 
+during the process instead of waiting until the end of the process to review and resolve issues.
+Useful when:
+    -Project is likely to change
+    -Uncertain about how the final solution will look
+    -Work quickly is needed, and see the speed in progress than in results
+    -Clients/Stakeholders would like to be involved at every stage of the process
+
+Scrum methodology: It is a form of agile methodology, like a framework, where work 
+is split into cycles known as sprints of 1-2 weeks. At the end of these periods, 
+a sprint retrospective is done, and any other necessary changes are made before 
+the next sprint.
+Useful when:
+    -Continuous improvement is needed
+
+Kanban methodology: Another form of agile methodology. A kanban board is used to 
+visualize the tasks and how they progress through different stages. It's perfect 
+for giving everyone an immediate visual overview of each piece of work at any given
+time and also helps to avoid the bottlenecks of tasks in different stages.
+Useful when:
+    -A visual representation of the project's progress is needed
+    -Good to encourage Work In Progress Limits so your team can stay focused.
+
+Scrumban methodology: A mix of Scrum and Kanban. It combines the structured approach
+of Scrum with the visual management of Kanban, using work-in-progress limits during sprints.
+Useful when:
+    -A balance between structure and flexibility is needed, and visualizing work 
+    progress is crucial.
+
+eXtreme programming methodology: Focuses on iterative development, frequent releases,
+and collaboration. Practices include pair programming, test-driven development, 
+and continuous integration.
+Useful when:
+    -Fast adaptation and high-quality output are priorities.
+
+Adaptive project framework (APF) methodology: Embraces change and emphasizes flexibility,
+iterative planning, and continuous feedback.
+Useful when:
+    -Projects with evolving requirements and a need for adaptability.
+
+Lean methodology: Maximizes value while minimizing waste. It emphasizes continuous improvement,
+eliminating bottlenecks, and delivering value quickly.
+Useful when:
+    -For streamlining processes and optimizing resource utilization to deliver high-quality
+     products efficiently.
+
+
